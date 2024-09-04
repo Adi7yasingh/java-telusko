@@ -9,7 +9,7 @@ class demo10
        num1[1] = 5;
        num1[2] = 6;
        num1[3] = 7;
-       //modified this
+       //modified this   
 
        for(int i=0;i<=3;i++)
        {
